@@ -14,6 +14,7 @@ Testing Tools: Selenium, Postman
 Log Analysis: Experience with analyzing logs to troubleshoot and resolve application issues.
 OS: Linux, Windows
 Other: Jira, Android Studio
+
 📚 Projects
 
 Here are some of the projects I’ve worked on:
