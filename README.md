@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a QA Engineer with a background in Technical S
 Manual testing and automation testing with tools like Selenium and Postman.
 Develop my skills in software testing.
 Exploring testing methodologies such as smoke testing, regression testing, and API testing.
+
 🔧 Tools & Technologies
 
 Languages: Python, SQL
