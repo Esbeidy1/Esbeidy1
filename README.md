@@ -11,8 +11,11 @@ Exploring testing methodologies such as smoke testing, regression testing, and A
 
 Languages: Python, SQL
 Testing Tools: Selenium, Postman
+
 Log Analysis: Experience with analyzing logs to troubleshoot and resolve application issues.
+
 OS: Linux, Windows
+
 Other: Jira, Android Studio
 
 📚 Projects
@@ -25,4 +28,4 @@ Project 1: Urban Routes: Developed automated tests for a Taxi Booking applicatio
 
 LinkedIn:https://www.linkedin.com/in/esbeidy-garcia-
 
-Email: yasbeck12@gmail.com
+📧 yasbeck12@gmail.com
