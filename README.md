@@ -10,6 +10,7 @@ Exploring testing methodologies such as smoke testing, regression testing, and A
 🔧 Tools & Technologies
 
 Languages: Python, SQL
+
 Testing Tools: Selenium, Postman
 
 Log Analysis: Experience with analyzing logs to troubleshoot and resolve application issues.
