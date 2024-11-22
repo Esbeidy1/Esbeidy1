@@ -1,6 +1,6 @@
 Hi there, I'm Esbeidy 👋
 
-Welcome to my GitHub profile! I'm a QA Engineer with a background in Technical Support. I'm passionate about improving software quality and ensuring reliability through hands-on testing and automation. Here's a little about me:
+Welcome to my GitHub profile! I'm a QA Engineer with a background in Technical Support. I'm passionate about improving software quality and ensuring reliability through hands-on testing and automation. Here's a little about me 👩🏻‍💻:
 
 🌱 What I'm currently working on:
 
